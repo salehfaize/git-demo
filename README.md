@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Imsum Below
+##Website Contents
 
-asdgagajf jjdlkfjsadlfj kjfkjai
-
-Last editing to test.
+1. index.html
